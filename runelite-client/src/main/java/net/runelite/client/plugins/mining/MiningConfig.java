@@ -23,6 +23,7 @@
  * OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
+// importing specific plugins related to mining
 package net.runelite.client.plugins.mining;
 
 import net.runelite.client.config.Config;
